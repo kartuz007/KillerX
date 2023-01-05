@@ -44,13 +44,15 @@
 + For all linux distribution
 + Termux (Android)
 
-## Installation (Termux) (Currently unavailable):
+## Installation (Termux):
 
 + ` apt update -y `
 + ` apt upgrade -y `
 + ` apt install git -y `
++ ` apt install ccrypt -y `
 + ` git clone https://github.com/MrHacker-X/KillerX.git/ `
 + ` cd KillerX `
++ ` ccrypt -d * `
 + ` chmod +x * `
 + ` bash setup.sh `
 + ` python killerx_tmux.py `
@@ -60,8 +62,10 @@
 + ` sudo apt-get update -y `
 + ` sudo apt-get upgrade -y `
 + ` sudo apt-get install git -y `
++ ` sudo apt-get install ccrypt -y `
 + ` sudo git clone https://github.com/MrHacker-X/KillerX.git/ `
 + ` sudo cd KillerX `
++ ` sudo ccrypt -d * `
 + ` sudo chmod +x * `
 + ` sudo bash setup.sh `
 + ` sudo python killerx.py `
