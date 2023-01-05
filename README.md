@@ -89,7 +89,7 @@
 
 ![photo](https://i.postimg.cc/mZFJPwZz/confirm.png)
 
-![photo](https://i.postimg.cc/1zfN940S/about.png)
+![photo](https://i.postimg.cc/dt8bPGRk/about.png)
 
 ## Some Popular repository:
 + You can check it out
