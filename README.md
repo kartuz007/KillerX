@@ -44,7 +44,7 @@
 + For all linux distribution
 + Termux (Android)
 
-## Installation (Termux):
+## Installation (Termux) (Currently unavailable):
 
 + ` apt update -y `
 + ` apt upgrade -y `
