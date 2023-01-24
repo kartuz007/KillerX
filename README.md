@@ -79,7 +79,7 @@
 
 ## How To Get Key:
 
-+ Listen If you want key of this tool then you can come on my my Instagram profile by [Clicking here](https://instagram.com/0hacker_x0/) .
++ Listen If you want key of this tool then you can come on my Instagram profile by [Clicking here](https://instagram.com/0hacker_x0/) .
 
 ## What's key price:
 
