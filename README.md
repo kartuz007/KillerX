@@ -91,7 +91,7 @@
 
 ## What If tool doesn't work?
 
-+ Well, Tool is in working condition. But, If it not work then Youy can give me Victim Username I will ban that account for you. Hope you all understand.
++ Well, Tool is in working condition. But, If it not work then You can give me your Victim Username I will ban that account for you. Hope you all understand.
 
 ## Screenshots
 
