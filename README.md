@@ -89,6 +89,10 @@
 
 + Well It's only about 10$.
 
+## What If tool doesn't work?
+
++ Well, Tool is in working condition. But, If it not work then Youy can give me Victim Username I will ban that account for you. Hope you all understand.
+
 ## Screenshots
 
 ![photo](https://i.postimg.cc/SxQgf74G/main.png)
