@@ -95,7 +95,7 @@
 
 ## Refund ??
 
-+ Well, No refund is not available because You're buying this key to ban someone account, And I'be already told you If tool doesn't work then I'll ban that account for you.  
++ Well, No refund is not available because You're buying this key to ban someone account, And I've already told you If tool doesn't work then I'll ban that account for you.  
 
 ## Screenshots
 
