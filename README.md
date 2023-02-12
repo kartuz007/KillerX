@@ -93,6 +93,10 @@
 
 + Well, Tool is in working condition. But, If it not work then You can give me your Victim Username I will ban that account for you. Hope you all understand.
 
+## Refund ??
+
++ Well, No refund is not available because You're buying this key to ban someone account, And I'be already told you If tool doesn't work then I'll ban that account for you.  
+
 ## Screenshots
 
 ![photo](https://i.postimg.cc/SxQgf74G/main.png)
