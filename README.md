@@ -84,7 +84,7 @@
 
 ## What's key price:
 
-+ Well It's only about 10$.
++ Well It's only about 20$.
 
 ## What If tool doesn't work?
 
