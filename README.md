@@ -86,14 +86,6 @@
 
 + Well It's only about 20$.
 
-## What If tool doesn't work?
-
-+ Well, Tool is in working condition. But, If it not work then You can give me your Victim Username I will ban one account for you. Hope you all understand.
-
-## Refund ??
-
-+ Well, No refund is not available because You're buying this key to ban someone account, And I've already told you If tool doesn't work then I'll ban one account for you.  
-
 ## Screenshots
 
 ![photo](https://i.postimg.cc/SxQgf74G/main.png)
