@@ -30,7 +30,6 @@
 
 +  KillerX is a Most dangerous instagram reporting tool. This tool can ban any kind of Instagram Account which account contain less than 100k followers. If your account have 100k + followers then this tool can't harm your account. But if Your ID contaion less than 100k followers then nobody can save your Instagram account. This tool is written in python3. And This tool can run in Any Linux distribution like Debian, Ubuntu, Fedora, ArchLinux and more.
 
-
 ## Created For:
 
 + Kali Linux
@@ -84,7 +83,7 @@
 
 ## What's key price:
 
-+ Well It's only about 20$.
++ Well It's only about 10$.
 
 ## Screenshots
 
